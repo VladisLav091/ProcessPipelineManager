@@ -30,6 +30,6 @@ python lab4.2.py cat "<" logfile.txt "|" grep ERROR "|" wc -l
 У нас есть текстовый файл с различными строками текста, и мы хотим найти строки, содержащие слово "data", а затем вывести их в верхнем регистре. Команда:
 
 ```
-python lab4.py cat "<" datafile.txt "|" grep -i data "|" tr '[:lower:]' '[:upper:]'
+python lab4.2.py cat "<" datafile.txt "|" grep -i data "|" tr '[:lower:]' '[:upper:]'
 ```
 Результат последнего процесса выводится в терминал в формате JSON.
