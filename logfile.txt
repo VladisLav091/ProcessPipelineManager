@@ -1,0 +1,6 @@
+2024-10-04 10:00:01 INFO: Starting the service
+2024-10-04 10:05:43 WARNING: Disk space low
+2024-10-04 10:07:10 ERROR: Failed to connect to database
+2024-10-04 10:10:22 INFO: Service restarted
+2024-10-04 10:15:33 ERROR: Unable to retrieve data
+2024-10-04 10:20:00 INFO: Service is running normally

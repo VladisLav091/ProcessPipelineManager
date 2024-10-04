@@ -1,0 +1,15 @@
+[
+  {
+    "name": "cat",
+    "code": 0
+  },
+  {
+    "name": "grep",
+    "code": 0
+  },
+  {
+    "name": "tr",
+    "code": 0,
+    "output": "WE NEED TO FIND THE WORD DATA.\nDATA CAN BE IMPORTANT.\nTHE TERM DATABASE IS ALSO RELEVANT.\n"
+  }
+]

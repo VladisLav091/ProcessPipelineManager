@@ -1,0 +1,5 @@
+This is some example text.
+We need to find the word data.
+Data can be important.
+The term database is also relevant.
+But not every line contains the word.
