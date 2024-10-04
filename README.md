@@ -17,7 +17,7 @@ kill -USR1 <PID>
 
 У нас есть файл `script.py`, который мы хотим проанализировать с помощью пайплайна. Команда:
 ```
-python lab4.2.py cat "<" script.py "|" grep isinstance
+python lab4.2.py cat "<" scripts.py "|" grep isinstance
 ```
 
 ### Пример 2: Анализ логов
